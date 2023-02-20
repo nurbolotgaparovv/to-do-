@@ -1,0 +1,21 @@
+body{
+    background: powderblue;
+}
+.container{
+    padding: 10vh;
+}
+.room{
+    padding: 2vh;
+    display: flex;
+    width: 1300px;
+}
+.list{
+    text-align: center;
+    color: white;
+}
+.btn-add{
+    margin: 0 5px;
+}
+/*#modal{*/
+/*    transform: scale(0);*/
+/*}*/
